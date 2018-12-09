@@ -1,5 +1,5 @@
 # ReactJS-
-A Simple pattern app of  shopping cards with  ReactJS 
+A Simple pattern app for  shopping cards with  ReactJS 
 
 
 the application is a simple pattern behind shopping cards; we can increment the number of a product , delete it or reset to zero all products
